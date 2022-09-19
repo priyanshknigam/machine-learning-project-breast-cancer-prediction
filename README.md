@@ -1,3 +1,4 @@
+# Breast Cancer Prediction Model (ML)
 The repository consists of a jupyter notebook file containing the code for building, training and analyzing a machine learning model, to predict presence of Breast Cancer based on various parameters.
 
 The Code uses Support Vector Machine (SVM) and GridSearchCV from ScikitLearn (sklearn) to develop and analyze the model. Code also uses numpy, pandas, matplotlib and seaborn to load and clean the input data so that it can be passed to train and test the model.
